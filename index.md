@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Education Success
 
 You can use the [editor on GitHub](https://github.com/mcarlson36/mycis280finalapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
