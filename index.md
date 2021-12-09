@@ -1,3 +1,3 @@
-## Education Success
+## Pomodoro Timer
 
-An app that allows parents to view the grades of their children, their homework, and any other relevant information to their education. The app will also have a section for students that allows them to see the same information along with learning resources and a discussion area where they can communicate with other students.
+The pomodoro technique was developed by Francesco Cirillo in the late 1980s as a way of increasing productivity. It involves breaking up work into intervals, usually 25 minutes in length, with short breaks in between. Pomodoro Timer is an app for anyone looking to increase productivity in their daily lives in anything from homework to exercising/working out. The app allows the user to edit the work and break times as well as change the theme. There is also a stats screen that displays sessions completed and total time worked.
